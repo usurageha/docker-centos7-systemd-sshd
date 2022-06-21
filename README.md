@@ -1,7 +1,7 @@
 # docker-centos7-systemd-sshd
 Execute Systemd and SSHd in CentOS7 container
 
-## Prerequisites
+## HOST Prerequisites
 * Microsoft Windows 10 Pro Build 19044
 * Docker Desktop 4.9.1 (81317) on WSL2 Ubuntu 20.04 (Cgroup Version: 1)
 
